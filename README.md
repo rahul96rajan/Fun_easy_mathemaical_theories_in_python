@@ -1,4 +1,4 @@
-# Super easy and fun mathemaical theories which has a greater scope of use than you could have imagined.
+# Super easy and fun mathemaical theories which have a greater scope of use than you could have imagined.
 
 Many mathematical theory are so simple that even a 4 year old can understand. But remember the real-world practical implementations are much more complex than the initial intuition.<br>
 
